@@ -1,5 +1,6 @@
-
 streamlit
-yt-dlp
-whisper-openai
-moviepy
+langchain
+langchain-community
+pyngrok
+openai
+pydantic==2.7.4 # Specify version to avoid potential conflicts
